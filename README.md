@@ -1,2 +1,2 @@
-# C-Calculator
+# C++
 This is a basic calculator
